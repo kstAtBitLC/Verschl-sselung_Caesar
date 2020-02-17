@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verschlüsselung_Caesar", "Verschlüsselung_Caesar\Verschlüsselung_Caesar.csproj", "{6FF72340-46AB-41F2-9D0B-A0C52B9FA9E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF72340-46AB-41F2-9D0B-A0C52B9FA9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF72340-46AB-41F2-9D0B-A0C52B9FA9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF72340-46AB-41F2-9D0B-A0C52B9FA9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF72340-46AB-41F2-9D0B-A0C52B9FA9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811C29A6-3F09-41C5-9C62-224029B40EBE}
+	EndGlobalSection
+EndGlobal
